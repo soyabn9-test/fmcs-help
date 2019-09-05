@@ -12,7 +12,7 @@ Ok, now you have know the warning, you can carry on.
 
 ## Is the server free forever?
 
-Yes, You are able to get the server for free.
+Yes, You are able to get the server for free. Test.
 
 ## What are the server types?
 
