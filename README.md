@@ -12,7 +12,7 @@ Ok, now you have know the warning, you can carry on.
 
 ## Is the server free forever?
 
-No, its not forever free but you are able to create a server and depending on what plan you have chosen you can get more amount of time than other hosts.
+Yes, You are able to get the server for free.
 
 ## What are the server types?
 
